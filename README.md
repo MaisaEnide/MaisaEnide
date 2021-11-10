@@ -7,7 +7,11 @@ Atualmente estou focando meus estudos praticos em Java <br><br>
 📫 Contato: <br>
 <a href="https://www.linkedin.com/in/maisaenide/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
 
-![MaisaEnide's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaisaEnide&hide=contribs,prs&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaEnide&layout=compact&theme=radical)](https://github.com/MaisaEnide/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/MaisaEnide">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaisaEnide&hide=contribs,prs&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaEnide&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 <!---
 MaisaEnide/MaisaEnide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
