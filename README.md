@@ -9,8 +9,8 @@ Atualmente estou focando meus estudos praticos em Java <br><br>
 
 <div align="center">
   <a href="https://github.com/MaisaEnide">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaisaEnide&hide=contribs,prs&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaEnide&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MaisaEnide&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaEnide&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <!---
